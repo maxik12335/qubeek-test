@@ -2,23 +2,14 @@
 
 ## Project setup
 ```
-npm install
+git clone https://github.com/maxik12335/qubeek-test.git
 ```
-
-### Compiles and hot-reloads for development
 ```
-npm run serve
+cd qubeek-test
 ```
-
-### Compiles and minifies for production
 ```
-npm run build
+npm i
 ```
-
-### Lints and fixes files
 ```
-npm run lint
+vue serve
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
